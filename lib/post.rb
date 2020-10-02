@@ -3,4 +3,5 @@ class Post
   
   def initialize(author)
     author = Author.new
+  end
 end
